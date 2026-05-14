@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-14 18:28 IR
+- 📥 [deck_1.60.0_linux_amd64.tar.gz](https://github.com/ahmad12-dev/sandbox/raw/main/dl/deck_1.60.0_linux_amd64.tar.gz) `13.9MB`
+
+---
+
+
 ### 📅 2026-05-14 13:07 IR
 - 📥 [vscode-server-linux-x64.tar.gz](https://github.com/ahmad12-dev/sandbox/raw/main/dl/vscode-server-linux-x64.tar.gz) `73.4MB`
 
